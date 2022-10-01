@@ -1,4 +1,4 @@
-# Git tutorial
+# Amazing Git tutorial
 ## Basic Commands
 1. initializing the empty git repository
     ```bash
