@@ -15,4 +15,7 @@
     ```bash
     git status
     ```
-    
+5. Adding the files to get tracked
+    ```bash
+    git add filename
+    ```
