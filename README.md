@@ -19,3 +19,8 @@
     ```bash
     git add filename
     ```
+6. developing into new branch
+    ```bash
+    git branch branchname
+    ```
+    
