@@ -3,9 +3,5 @@ pandas
 matplotlib
 seaborn
 flask
-<<<<<<< HEAD
-keras
-=======
 keras
 sklearn
->>>>>>> developer
