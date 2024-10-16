@@ -1,4 +1,5 @@
 # Amazing Git tutorial
+[Check out the Whimsical diagram for high-level overview](https://whimsical.com/embed/KnjyKjhskF2Z1SoQKui6CP@6HYTAunKLgTSyuEcnFk4aAaLzjUSKAcvt4bD6e4YACHqYCg)
 ## Basic Commands
 1. To initialize an empty git repository
     ```bash
